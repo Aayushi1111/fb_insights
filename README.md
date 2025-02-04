@@ -9,6 +9,7 @@ This project is a **Facebook Insights Microservice** that allows users to fetch 
 - **Scraping Library:** BeautifulSoup/Selenium/Scrapy
 - **Deployment:** Docker 
 
+![Screenshot 2025-02-04 221653](https://github.com/user-attachments/assets/8283e185-fc4b-4ea5-b7b3-2eb1fce92874)
 
 ## Features
 
