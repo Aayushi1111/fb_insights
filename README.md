@@ -1,4 +1,4 @@
-# SDE Intern Assignment - Deepsolv
+
 
 ## Overview
 This project is a **Facebook Insights Microservice** that allows users to fetch and store insights of a given Facebook Page username. The service scrapes Facebook data, stores it in a database, and provides RESTful APIs to retrieve the stored information.
